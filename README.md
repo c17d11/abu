@@ -2,6 +2,8 @@
 
 3D-models for ice fishing rod "ABU Pimpel 2"
 
+![](doc/images/abu-full.png) ![](doc/images/abu-mount.png)
+
 
 # Directory structure
 *src/*
