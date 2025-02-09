@@ -12,7 +12,7 @@ Use PETG when printing, it will make the tip flexible.
 
 # ABU-MOUNT
 Used fit a smaller tip to the fishing rod.
-Print the model and then drill a hole that fist the other tip.
+Print the model and then drill a hole that fits the other tip.
 
 ## Printing tips
 Print with 100% infill if you are going to drill in the mount.
